@@ -5,8 +5,6 @@ This is Adel. I'm a data scientist who mainly works on NLP problems. I like lang
 I'm open for research collaborations and open source software collaboration related to NLP. Best way to reach me is through my email at: lastname [dot] firstname [at] gmail.com
 
 
-![Adel's github stats](https://github-readme-stats.vercel.app/api?username=adelra&show_icons=true&theme=vue)
-
 <!--
 **adelra/adelra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
